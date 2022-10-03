@@ -155,6 +155,8 @@ else if (special_criteria) {
 
 ;
 
+//Generate Random Password
+
 var password_insert = []
 
 
