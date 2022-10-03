@@ -1,7 +1,7 @@
 # eduardo-arellano-module3-challenge
 Eduardo Arellano Module 3 Assignment repo
 
-# 📖Create an application that an employee can use to generate a random password based on criteria they've selecteds.
+# 📖Create an application that an employee can use to generate a random password based on criteria they've selected.
 
 * The Javascript code will be updated to remove console error and create a random password generator.
 
